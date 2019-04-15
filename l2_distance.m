@@ -1,7 +1,7 @@
-function d = l2_distance(a,b,df)
+function d = L2_distance(a,b,df)
 % L2_DISTANCE - computes Euclidean distance matrix
 %
-% E = l2_distance(A,B)
+% E = L2_distance(A,B)
 %
 %    A - (DxM) matrix 
 %    B - (DxN) matrix
